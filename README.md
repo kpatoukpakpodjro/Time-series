@@ -18,3 +18,6 @@ Après avoir terminé ce cours, j'ai su comment :
 * visualiser des séries chronologiques avec de nombreux types de tracés de séries chronologiques,
 * créer des prévisions hybrides qui combinent les atouts de modèles complémentaires, et
 * adapter les méthodes d’apprentissage automatique à une variété de tâches de prévision.
+
+  ![KPATOUKPA Kpodjro - Time Series](https://github.com/kpatoukpakpodjro/Time-series/assets/102617343/19c55c79-311a-4e4f-a820-c5367a920bdc)
+
